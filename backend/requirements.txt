@@ -1,0 +1,4 @@
+Flask
+graphene
+flask_cors
+dotenv
